@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("C30Q1")]
+[assembly: AssemblyTitle("C30Q5")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("C30Q1")]
+[assembly: AssemblyProduct("C30Q5")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("31105bbd-2926-45fb-93f9-7ced07d61e81")]
+[assembly: Guid("95981db3-a3f3-4a6a-9b92-12e250a6af44")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //

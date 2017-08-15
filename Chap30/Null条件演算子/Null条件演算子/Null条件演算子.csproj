@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31105BBD-2926-45FB-93F9-7CED07D61E81}</ProjectGuid>
+    <ProjectGuid>{5FC095F4-11BA-438C-BEC5-1ABF8EB5A644}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C30Q1</RootNamespace>
-    <AssemblyName>C30Q1</AssemblyName>
+    <RootNamespace>Null条件演算子</RootNamespace>
+    <AssemblyName>Null条件演算子</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

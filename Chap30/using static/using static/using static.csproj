@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31105BBD-2926-45FB-93F9-7CED07D61E81}</ProjectGuid>
+    <ProjectGuid>{7B6EDEDF-82BE-4CCB-97BF-7EB8346DB7F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C30Q1</RootNamespace>
-    <AssemblyName>C30Q1</AssemblyName>
+    <RootNamespace>using_static</RootNamespace>
+    <AssemblyName>using static</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31105BBD-2926-45FB-93F9-7CED07D61E81}</ProjectGuid>
+    <ProjectGuid>{231DB87C-B902-4CF8-B1BD-17F40916D269}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C30Q1</RootNamespace>
-    <AssemblyName>C30Q1</AssemblyName>
+    <RootNamespace>式を本体とするメソッド</RootNamespace>
+    <AssemblyName>式を本体とするメソッド</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
