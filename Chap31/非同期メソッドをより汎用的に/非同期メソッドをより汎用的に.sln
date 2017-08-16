@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "非同期メソッドをより汎用的に", "非同期メソッドをより汎用的に\非同期メソッドをより汎用的に.csproj", "{A5462AC3-6C60-40A9-97F7-AD2923061899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5462AC3-6C60-40A9-97F7-AD2923061899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5462AC3-6C60-40A9-97F7-AD2923061899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5462AC3-6C60-40A9-97F7-AD2923061899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5462AC3-6C60-40A9-97F7-AD2923061899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942B9B5A-95F8-475F-9172-5BE8297E6EAC}
+	EndGlobalSection
+EndGlobal
