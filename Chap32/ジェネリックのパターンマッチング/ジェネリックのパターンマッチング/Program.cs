@@ -1,10 +1,6 @@
 ﻿using System;
 
-public class A
-{
-}
-
-public class B : A
+public class B
 {
     public void sub() => Console.WriteLine("in sub");
 }
@@ -12,7 +8,7 @@ public class B : A
 class Program
 {
     private static void anyTypeSampleMethod<T>(T para)
-        where T : A
+        
     {
         if (para is B b1) b1.sub();
 
