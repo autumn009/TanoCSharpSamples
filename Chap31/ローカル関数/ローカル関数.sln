@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ローカル関数", "ローカル関数\ローカル関数.csproj", "{299951AC-FDAA-4B01-A16E-428B0F5956DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299951AC-FDAA-4B01-A16E-428B0F5956DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299951AC-FDAA-4B01-A16E-428B0F5956DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299951AC-FDAA-4B01-A16E-428B0F5956DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299951AC-FDAA-4B01-A16E-428B0F5956DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19FA0EA6-E263-405A-92DF-C24655B25F99}
+	EndGlobalSection
+EndGlobal
