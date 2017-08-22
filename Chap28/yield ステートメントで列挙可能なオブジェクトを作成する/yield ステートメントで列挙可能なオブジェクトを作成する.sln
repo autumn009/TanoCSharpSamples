@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yield ステートメントで列挙可能なオブジェクトを作成する", "yield ステートメントで列挙可能なオブジェクトを作成する\yield ステートメントで列挙可能なオブジェクトを作成する.csproj", "{BDF27E61-8458-4A06-88D4-0E6778AA1E1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF27E61-8458-4A06-88D4-0E6778AA1E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF27E61-8458-4A06-88D4-0E6778AA1E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF27E61-8458-4A06-88D4-0E6778AA1E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF27E61-8458-4A06-88D4-0E6778AA1E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B38DDBD-B512-43B2-8716-5426A9B68EAC}
+	EndGlobalSection
+EndGlobal
