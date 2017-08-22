@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "参照の解放", "参照の解放\参照の解放.csproj", "{A683E098-27A7-420A-930E-B026CD5F7A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A683E098-27A7-420A-930E-B026CD5F7A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A683E098-27A7-420A-930E-B026CD5F7A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A683E098-27A7-420A-930E-B026CD5F7A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A683E098-27A7-420A-930E-B026CD5F7A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C2F506-3BA0-46CD-894C-B7AAA0342D55}
+	EndGlobalSection
+EndGlobal
