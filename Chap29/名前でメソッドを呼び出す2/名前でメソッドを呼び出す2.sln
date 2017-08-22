@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "名前でメソッドを呼び出す2", "名前でメソッドを呼び出す2\名前でメソッドを呼び出す2.csproj", "{829E3C04-5FC1-4FFA-B270-887DEB81A110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829E3C04-5FC1-4FFA-B270-887DEB81A110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829E3C04-5FC1-4FFA-B270-887DEB81A110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829E3C04-5FC1-4FFA-B270-887DEB81A110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829E3C04-5FC1-4FFA-B270-887DEB81A110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C9FCFF-117C-41FE-ADB4-CE9A6C6B3C19}
+	EndGlobalSection
+EndGlobal
