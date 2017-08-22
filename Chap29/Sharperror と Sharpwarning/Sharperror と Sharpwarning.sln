@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharperror と Sharpwarning", "Sharperror と Sharpwarning\Sharperror と Sharpwarning.csproj", "{EE04BC6A-DC47-4D20-885E-5DF439CBFE2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE04BC6A-DC47-4D20-885E-5DF439CBFE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE04BC6A-DC47-4D20-885E-5DF439CBFE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE04BC6A-DC47-4D20-885E-5DF439CBFE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE04BC6A-DC47-4D20-885E-5DF439CBFE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D5FBB2-9A3B-4FF5-BC1D-DF049B5DAB29}
+	EndGlobalSection
+EndGlobal

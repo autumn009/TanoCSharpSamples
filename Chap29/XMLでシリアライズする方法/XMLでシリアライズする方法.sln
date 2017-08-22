@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLでシリアライズする方法", "XMLでシリアライズする方法\XMLでシリアライズする方法.csproj", "{173A69BF-450B-4577-806A-5728D485A067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173A69BF-450B-4577-806A-5728D485A067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173A69BF-450B-4577-806A-5728D485A067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173A69BF-450B-4577-806A-5728D485A067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173A69BF-450B-4577-806A-5728D485A067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA081F45-3FC2-41EE-ADB2-3B6A9827CEA5}
+	EndGlobalSection
+EndGlobal
