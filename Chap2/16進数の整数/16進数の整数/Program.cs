@@ -4,6 +4,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(8823);
+        Console.WriteLine(0x10);
     }
 }

@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine(8823);
+        var a = 10 + 0x10;
+        Console.WriteLine(a);
     }
 }
