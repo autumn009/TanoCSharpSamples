@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "キャプチャされるのは変数という問題", "キャプチャされるのは変数という問題\キャプチャされるのは変数という問題.csproj", "{258B9E9A-BD47-499E-89E6-9550B66EBA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258B9E9A-BD47-499E-89E6-9550B66EBA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258B9E9A-BD47-499E-89E6-9550B66EBA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258B9E9A-BD47-499E-89E6-9550B66EBA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258B9E9A-BD47-499E-89E6-9550B66EBA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46717C23-BDEF-4395-BF62-0D9D26DD1C14}
+	EndGlobalSection
+EndGlobal
