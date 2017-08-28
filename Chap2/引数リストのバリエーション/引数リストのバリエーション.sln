@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "引数リストのバリエーション", "引数リストのバリエーション\引数リストのバリエーション.csproj", "{A49B3BCD-E295-43D9-974D-70E42FF3EDD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49B3BCD-E295-43D9-974D-70E42FF3EDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49B3BCD-E295-43D9-974D-70E42FF3EDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49B3BCD-E295-43D9-974D-70E42FF3EDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49B3BCD-E295-43D9-974D-70E42FF3EDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63429FD0-A903-4CD6-BC3B-31E75232D7B6}
+	EndGlobalSection
+EndGlobal
