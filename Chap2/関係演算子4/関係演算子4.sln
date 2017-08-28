@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "関係演算子4", "関係演算子4\関係演算子4.csproj", "{D5782C10-FED1-4C70-B7CD-3F7578B7AB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5782C10-FED1-4C70-B7CD-3F7578B7AB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5782C10-FED1-4C70-B7CD-3F7578B7AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5782C10-FED1-4C70-B7CD-3F7578B7AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5782C10-FED1-4C70-B7CD-3F7578B7AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB6ACA4-75A6-4FD5-9D66-57D4AC63E102}
+	EndGlobalSection
+EndGlobal

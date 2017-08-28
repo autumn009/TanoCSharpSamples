@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "比較動作のカスタマイズ", "比較動作のカスタマイズ\比較動作のカスタマイズ.csproj", "{67F0D725-4BCB-46E5-8E77-94FE1CCD7976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F0D725-4BCB-46E5-8E77-94FE1CCD7976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F0D725-4BCB-46E5-8E77-94FE1CCD7976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F0D725-4BCB-46E5-8E77-94FE1CCD7976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F0D725-4BCB-46E5-8E77-94FE1CCD7976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62FAE4D-AFE4-4AF0-B30E-5D50413C36D6}
+	EndGlobalSection
+EndGlobal
