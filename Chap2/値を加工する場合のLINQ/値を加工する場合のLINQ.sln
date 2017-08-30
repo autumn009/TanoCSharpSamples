@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "値を加工する場合のLINQ", "値を加工する場合のLINQ\値を加工する場合のLINQ.csproj", "{35A065A2-592C-4839-AACF-1DDE3C5B01B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A065A2-592C-4839-AACF-1DDE3C5B01B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A065A2-592C-4839-AACF-1DDE3C5B01B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A065A2-592C-4839-AACF-1DDE3C5B01B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A065A2-592C-4839-AACF-1DDE3C5B01B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F344A9-4101-44C8-B21D-A2F0D29EFB10}
+	EndGlobalSection
+EndGlobal
