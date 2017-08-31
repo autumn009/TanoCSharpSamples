@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名オブジェクトの作り方2", "匿名オブジェクトの作り方2\匿名オブジェクトの作り方2.csproj", "{F78BA8B1-5B58-47EA-AF50-D2E1D70C914B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78BA8B1-5B58-47EA-AF50-D2E1D70C914B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78BA8B1-5B58-47EA-AF50-D2E1D70C914B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78BA8B1-5B58-47EA-AF50-D2E1D70C914B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78BA8B1-5B58-47EA-AF50-D2E1D70C914B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681B3D57-9478-4AD2-8D60-7BF225F254B6}
+	EndGlobalSection
+EndGlobal
