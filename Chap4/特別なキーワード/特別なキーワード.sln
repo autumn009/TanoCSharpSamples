@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "特別なキーワード", "特別なキーワード\特別なキーワード.csproj", "{1AECDB61-6EC5-47FE-BCF5-D3760CC9941B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AECDB61-6EC5-47FE-BCF5-D3760CC9941B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AECDB61-6EC5-47FE-BCF5-D3760CC9941B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AECDB61-6EC5-47FE-BCF5-D3760CC9941B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AECDB61-6EC5-47FE-BCF5-D3760CC9941B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906F49DC-0A3E-427F-AB68-51E4B634276D}
+	EndGlobalSection
+EndGlobal
