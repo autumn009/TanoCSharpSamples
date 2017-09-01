@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "決まった回数の繰り返し", "決まった回数の繰り返し\決まった回数の繰り返し.csproj", "{12044B0F-2DD0-47B7-9DB1-727697A21A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12044B0F-2DD0-47B7-9DB1-727697A21A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12044B0F-2DD0-47B7-9DB1-727697A21A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12044B0F-2DD0-47B7-9DB1-727697A21A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12044B0F-2DD0-47B7-9DB1-727697A21A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E8CA75-F812-4450-B4D2-052EC3570C33}
+	EndGlobalSection
+EndGlobal

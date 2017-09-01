@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ブロック ステートメント2", "ブロック ステートメント2\ブロック ステートメント2.csproj", "{48205C72-53B4-4392-985C-0A23E76E5C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48205C72-53B4-4392-985C-0A23E76E5C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48205C72-53B4-4392-985C-0A23E76E5C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48205C72-53B4-4392-985C-0A23E76E5C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48205C72-53B4-4392-985C-0A23E76E5C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B77A514-D5CC-45A8-A59B-CBD9B6BD50ED}
+	EndGlobalSection
+EndGlobal
