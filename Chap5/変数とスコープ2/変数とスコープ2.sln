@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "変数とスコープ2", "変数とスコープ2\変数とスコープ2.csproj", "{EFED9E7D-9D4D-43DC-A600-B8C561D46F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFED9E7D-9D4D-43DC-A600-B8C561D46F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED9E7D-9D4D-43DC-A600-B8C561D46F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED9E7D-9D4D-43DC-A600-B8C561D46F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED9E7D-9D4D-43DC-A600-B8C561D46F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AD6AB8-BE08-442A-8DBE-8F7762B76AEF}
+	EndGlobalSection
+EndGlobal
