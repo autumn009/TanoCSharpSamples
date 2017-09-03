@@ -12,6 +12,6 @@ class Program
     {
         int[] prices = { 100, 200, 300 };
         int[] r = calc(prices);
-        foreach (var item in r) Console.WriteLine(item);
+        Console.WriteLine(r.Sum());
     }
 }

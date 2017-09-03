@@ -12,6 +12,6 @@ class Program
     {
         string[] names = { "Alice", "Anne", "Betty" };
         string[] r = getANames(names);
-        foreach (var item in r) Console.WriteLine(item);
+        Console.WriteLine("配列の総数は{0}です。",r.Length);
     }
 }
