@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "変数よりも定数を使う場合", "変数よりも定数を使う場合\変数よりも定数を使う場合.csproj", "{4684BE5F-8BB3-4877-AE8F-A5630389AE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4684BE5F-8BB3-4877-AE8F-A5630389AE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4684BE5F-8BB3-4877-AE8F-A5630389AE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4684BE5F-8BB3-4877-AE8F-A5630389AE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4684BE5F-8BB3-4877-AE8F-A5630389AE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {511165D7-BC87-48B5-A69A-E5F8BA3A41A3}
+	EndGlobalSection
+EndGlobal
