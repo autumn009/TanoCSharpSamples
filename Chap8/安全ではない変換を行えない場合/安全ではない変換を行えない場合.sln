@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "安全ではない変換を行えない場合", "安全ではない変換を行えない場合\安全ではない変換を行えない場合.csproj", "{1C00DF72-2EE8-49AC-BFDA-DFD45C4C70BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C00DF72-2EE8-49AC-BFDA-DFD45C4C70BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C00DF72-2EE8-49AC-BFDA-DFD45C4C70BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C00DF72-2EE8-49AC-BFDA-DFD45C4C70BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C00DF72-2EE8-49AC-BFDA-DFD45C4C70BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A636965A-5CB5-4A60-844C-E81B7E8CBA65}
+	EndGlobalSection
+EndGlobal
