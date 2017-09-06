@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "列挙型の型を指定する", "列挙型の型を指定する\列挙型の型を指定する.csproj", "{322A44A7-AC9A-4924-89F3-F5F3EB8D16D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322A44A7-AC9A-4924-89F3-F5F3EB8D16D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322A44A7-AC9A-4924-89F3-F5F3EB8D16D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322A44A7-AC9A-4924-89F3-F5F3EB8D16D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322A44A7-AC9A-4924-89F3-F5F3EB8D16D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6BF8D0-1817-406C-8862-77EC9DAB5FC4}
+	EndGlobalSection
+EndGlobal

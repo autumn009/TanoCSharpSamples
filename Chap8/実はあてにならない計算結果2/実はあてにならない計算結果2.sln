@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "実はあてにならない計算結果2", "実はあてにならない計算結果2\実はあてにならない計算結果2.csproj", "{B4BAA61A-DE32-4BF5-A8E9-B4A31FD69570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BAA61A-DE32-4BF5-A8E9-B4A31FD69570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BAA61A-DE32-4BF5-A8E9-B4A31FD69570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BAA61A-DE32-4BF5-A8E9-B4A31FD69570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BAA61A-DE32-4BF5-A8E9-B4A31FD69570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55027B48-81C5-4449-ADA0-C9C4D15ECD94}
+	EndGlobalSection
+EndGlobal
