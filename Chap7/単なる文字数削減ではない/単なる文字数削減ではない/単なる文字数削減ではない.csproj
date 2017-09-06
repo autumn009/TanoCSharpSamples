@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F1A5952B-4810-4F5D-AD0D-4D925455407E}</ProjectGuid>
+    <ProjectGuid>{2EBC473E-EC93-4D58-81D5-2D911B5072FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>代入と計算</RootNamespace>
-    <AssemblyName>代入と計算</AssemblyName>
+    <RootNamespace>単なる文字数削減ではない</RootNamespace>
+    <AssemblyName>単なる文字数削減ではない</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
