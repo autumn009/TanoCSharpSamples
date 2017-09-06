@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文字列として1文字を取得する方法2", "文字列として1文字を取得する方法2\文字列として1文字を取得する方法2.csproj", "{06BFA8A1-032E-4F24-BC68-89DAD81CAC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BFA8A1-032E-4F24-BC68-89DAD81CAC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BFA8A1-032E-4F24-BC68-89DAD81CAC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BFA8A1-032E-4F24-BC68-89DAD81CAC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BFA8A1-032E-4F24-BC68-89DAD81CAC81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2736AF43-A8AF-491D-9667-04759672CEE7}
+	EndGlobalSection
+EndGlobal
