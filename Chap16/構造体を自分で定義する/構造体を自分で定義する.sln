@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "構造体を自分で定義する", "構造体を自分で定義する\構造体を自分で定義する.csproj", "{431C3D41-855D-41DA-B5FC-3DB6E0F8734D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431C3D41-855D-41DA-B5FC-3DB6E0F8734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431C3D41-855D-41DA-B5FC-3DB6E0F8734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431C3D41-855D-41DA-B5FC-3DB6E0F8734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431C3D41-855D-41DA-B5FC-3DB6E0F8734D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21893B91-7D82-4968-BA9B-90A825E0C2ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "現在日付時刻の取得方法", "現在日付時刻の取得方法\現在日付時刻の取得方法.csproj", "{583BCCEA-434E-42B4-ACCE-F97AD882CAE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583BCCEA-434E-42B4-ACCE-F97AD882CAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583BCCEA-434E-42B4-ACCE-F97AD882CAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583BCCEA-434E-42B4-ACCE-F97AD882CAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583BCCEA-434E-42B4-ACCE-F97AD882CAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C08DD0C-E915-43FE-8F25-FC829F72C6EF}
+	EndGlobalSection
+EndGlobal
