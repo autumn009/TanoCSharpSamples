@@ -2,7 +2,7 @@
 
 class Node
 {
-    public readonly int Number;
+    public int Number;
     public Node[] Children;
     public Node(int n)
     {
