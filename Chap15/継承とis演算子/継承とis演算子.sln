@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "継承とis演算子", "継承とis演算子\継承とis演算子.csproj", "{2E5A233E-306F-4E9B-95BF-828058FD6274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5A233E-306F-4E9B-95BF-828058FD6274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5A233E-306F-4E9B-95BF-828058FD6274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5A233E-306F-4E9B-95BF-828058FD6274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5A233E-306F-4E9B-95BF-828058FD6274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F291C59F-3865-44B8-A936-F477D7FCF08F}
+	EndGlobalSection
+EndGlobal
