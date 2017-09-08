@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "アセンブリの情報を取得する", "アセンブリの情報を取得する\アセンブリの情報を取得する.csproj", "{488FBE65-A532-40D2-A774-3D7B761BA0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488FBE65-A532-40D2-A774-3D7B761BA0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488FBE65-A532-40D2-A774-3D7B761BA0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488FBE65-A532-40D2-A774-3D7B761BA0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488FBE65-A532-40D2-A774-3D7B761BA0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967B81A2-5EAE-4C7C-87CC-DF55FCBDE478}
+	EndGlobalSection
+EndGlobal
