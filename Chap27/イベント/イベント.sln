@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "イベント", "イベント\イベント.csproj", "{98C800C7-6DE9-44AD-9190-20E2EE68828A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C800C7-6DE9-44AD-9190-20E2EE68828A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C800C7-6DE9-44AD-9190-20E2EE68828A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C800C7-6DE9-44AD-9190-20E2EE68828A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C800C7-6DE9-44AD-9190-20E2EE68828A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9CE8054-DCF2-4B29-9B39-C1775C37C46E}
+	EndGlobalSection
+EndGlobal
