@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "明示的な型変換", "明示的な型変換\明示的な型変換.csproj", "{DED191CD-DD8F-48CA-92C7-84926AA6B478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED191CD-DD8F-48CA-92C7-84926AA6B478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED191CD-DD8F-48CA-92C7-84926AA6B478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED191CD-DD8F-48CA-92C7-84926AA6B478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED191CD-DD8F-48CA-92C7-84926AA6B478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A632F6D-09FE-41A4-8FBB-9513FFF49BEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "参照型と値型を1つの配列に格納する", "参照型と値型を1つの配列に格納する\参照型と値型を1つの配列に格納する.csproj", "{21BE623F-8586-4709-9864-B383CD9D6D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BE623F-8586-4709-9864-B383CD9D6D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BE623F-8586-4709-9864-B383CD9D6D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BE623F-8586-4709-9864-B383CD9D6D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BE623F-8586-4709-9864-B383CD9D6D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B28184C-A413-4EA8-B5BB-6CE20FCCA6A2}
+	EndGlobalSection
+EndGlobal
