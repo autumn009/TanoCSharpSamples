@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nullという特別な値", "nullという特別な値\nullという特別な値.csproj", "{6A1F9BB3-89E3-45F9-8F6C-4C062A99B4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1F9BB3-89E3-45F9-8F6C-4C062A99B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1F9BB3-89E3-45F9-8F6C-4C062A99B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1F9BB3-89E3-45F9-8F6C-4C062A99B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1F9BB3-89E3-45F9-8F6C-4C062A99B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EB4AD7-CAEF-44DD-821E-52911E9B2661}
+	EndGlobalSection
+EndGlobal
