@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "テキストファイルを丸ごと読み出す2", "テキストファイルを丸ごと読み出す2\テキストファイルを丸ごと読み出す2.csproj", "{44D22732-4BC2-45C6-A3E8-8B4409B1E398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D22732-4BC2-45C6-A3E8-8B4409B1E398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D22732-4BC2-45C6-A3E8-8B4409B1E398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D22732-4BC2-45C6-A3E8-8B4409B1E398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D22732-4BC2-45C6-A3E8-8B4409B1E398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FF676F-78BC-4367-9F57-99D5DBADA005}
+	EndGlobalSection
+EndGlobal

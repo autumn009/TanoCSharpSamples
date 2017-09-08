@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "テキストファイルを丸ごと書き込む", "テキストファイルを丸ごと書き込む\テキストファイルを丸ごと書き込む.csproj", "{84C21E24-FD13-455F-AEC4-C24C848CB827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C21E24-FD13-455F-AEC4-C24C848CB827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C21E24-FD13-455F-AEC4-C24C848CB827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C21E24-FD13-455F-AEC4-C24C848CB827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C21E24-FD13-455F-AEC4-C24C848CB827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00EBE14-B778-44E9-8CAE-30E8F4CBCBC4}
+	EndGlobalSection
+EndGlobal
