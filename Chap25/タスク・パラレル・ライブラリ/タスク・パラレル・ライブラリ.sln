@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "タスク・パラレル・ライブラリ", "タスク・パラレル・ライブラリ\タスク・パラレル・ライブラリ.csproj", "{2D72F00B-E2C5-4809-A2A3-D8B7C59F2AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D72F00B-E2C5-4809-A2A3-D8B7C59F2AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D72F00B-E2C5-4809-A2A3-D8B7C59F2AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D72F00B-E2C5-4809-A2A3-D8B7C59F2AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D72F00B-E2C5-4809-A2A3-D8B7C59F2AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181E74B4-73EA-4E55-96C3-3EDA940128D2}
+	EndGlobalSection
+EndGlobal
