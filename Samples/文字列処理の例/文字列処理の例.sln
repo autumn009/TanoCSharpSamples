@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文字列処理の例", "文字列処理の例\文字列処理の例.csproj", "{8270EB5C-0811-4CC5-99E8-56CD3EBCF56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8270EB5C-0811-4CC5-99E8-56CD3EBCF56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8270EB5C-0811-4CC5-99E8-56CD3EBCF56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8270EB5C-0811-4CC5-99E8-56CD3EBCF56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8270EB5C-0811-4CC5-99E8-56CD3EBCF56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC365874-CDA1-4D17-897B-88710E91B448}
+	EndGlobalSection
+EndGlobal
