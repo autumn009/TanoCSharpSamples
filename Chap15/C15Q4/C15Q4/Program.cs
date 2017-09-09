@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int a = ?;
+        var a = ?;
         Console.WriteLine(a is object);
     }
 }
