@@ -17,8 +17,10 @@ class Program
     }
     static void Main(string[] args)
     {
-        A a = new A() { S = "I am one" };
-        A b = new A() { S = "I am two" };
+        A a = new A();
+        a.S = "I am one";
+        A b = new A();
+        b.S = "I am two";
         doit(a.Say);
         doit(b.Say);
     }
