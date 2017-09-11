@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "値型と参照型の違い2", "値型と参照型の違い2\値型と参照型の違い2.csproj", "{186F189A-2F84-49D7-9C28-C2C4B42D185F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186F189A-2F84-49D7-9C28-C2C4B42D185F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186F189A-2F84-49D7-9C28-C2C4B42D185F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186F189A-2F84-49D7-9C28-C2C4B42D185F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186F189A-2F84-49D7-9C28-C2C4B42D185F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66FBAE7-DA7C-4A79-9BF4-C93438A3F50D}
+	EndGlobalSection
+EndGlobal
