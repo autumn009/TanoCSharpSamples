@@ -13,11 +13,11 @@ class C : A, B
 {
     public void MyMethodA()
     {
-        Console.WriteLine("in B:MyMethodA");
+        Console.WriteLine("in C:MyMethodA");
     }
     public void MyMethodB()
     {
-        Console.WriteLine("in B:MyMethodB");
+        Console.WriteLine("in C:MyMethodB");
     }
 }
 
