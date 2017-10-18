@@ -5,20 +5,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        List<string> names1 = new List<string>
-            {
-                "One",
-                "Two",
-                "Three"
-            };
-        Dictionary<int, string> names2 = new Dictionary<int, string>
+        Dictionary<int, string> oldStyle = new Dictionary<int, string>
         {
-            [1] = "Ken",
-            [2] = "Joe",
-            [3] = "Jun"
+            {1, "Old Ken" },
+            {2, "Old Joe" },
+            {3, "Old Jun" }
         };
-        foreach (var item in names1) Console.WriteLine(item);
-        foreach (var item in names2.Keys) Console.WriteLine("{0}={1}", item, names2[item]);
+        foreach (var item in oldStyle) Console.WriteLine("{0}={1}", item.Key, item.Value);
+        Dictionary<int, string> newStyle = new Dictionary<int, string>
+        {
+            [1] = "New Ken",
+            [2] = "New Joe",
+            [3] = "New Jun"
+        };
+        foreach (var item in newStyle) Console.WriteLine("{0}={1}", item.Key, item.Value);
     }
 }
 
