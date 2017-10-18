@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 class Program
 {
     static void Main(string[] args)
     {
-        List<int> list = new int[] { 1, 2, 3 }.ToList();
-        foreach (var item in list) Console.WriteLine(item);
+        Dictionary<string, string> newStyle = new Dictionary<string, string>
+        {
+            ["X"] = "A",
+            [@"X"] = "B",
+            ["\u0058"] = "C",
+        };
+        foreach (var item in newStyle) Console.Write(item.Value);
     }
 }
