@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27102.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "末尾以外の名前付き引数", "末尾以外の名前付き引数\末尾以外の名前付き引数.csproj", "{F614EFB6-EE99-4116-AEED-813227B9A424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F614EFB6-EE99-4116-AEED-813227B9A424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F614EFB6-EE99-4116-AEED-813227B9A424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F614EFB6-EE99-4116-AEED-813227B9A424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F614EFB6-EE99-4116-AEED-813227B9A424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A6F2A2-E305-4134-AF2C-03D9A92C6EB6}
+	EndGlobalSection
+EndGlobal
