@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "条件演算子と参照", "条件演算子と参照\条件演算子と参照.csproj", "{C5522928-456D-48A0-BC0B-BBD61B2CD81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5522928-456D-48A0-BC0B-BBD61B2CD81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5522928-456D-48A0-BC0B-BBD61B2CD81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5522928-456D-48A0-BC0B-BBD61B2CD81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5522928-456D-48A0-BC0B-BBD61B2CD81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF7F11D-5013-495A-8C0F-D2D0AB122D0F}
+	EndGlobalSection
+EndGlobal
