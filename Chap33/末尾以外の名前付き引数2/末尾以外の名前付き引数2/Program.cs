@@ -9,7 +9,7 @@ class Program
 
     private static void sub<T>(T s, string t)
     {
-        Console.WriteLine("sub<T>(T s, string t)");
+        Console.WriteLine("In sub<T>(T s, string t)");
     }
 
     static void Main(string[] args)
