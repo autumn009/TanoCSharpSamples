@@ -1,8 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Runtime.Serialization;
-using System.Runtime.Serialization.Formatters.Soap;
-using System.Text;
+using System.Runtime.Serialization.Formatters.Binary;
 
 [Serializable]
 class X
@@ -17,9 +16,9 @@ class Program
     static void Main(string[] args)
     {
         X obj = new X();
-        IFormatter formatter = new SoapFormatter();
+        IFormatter formatter = new BinaryFormatter();
         var stream = new MemoryStream();
         formatter.Serialize(stream, obj);
-        Console.Write(Encoding.UTF8.GetString(stream.ToArray()));
+        Console.Write($"data size is {stream.ToArray().Length} bytes.");
     }
 }
