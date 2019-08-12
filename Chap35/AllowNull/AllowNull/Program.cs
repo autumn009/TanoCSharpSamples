@@ -1,4 +1,5 @@
-﻿using System;
+﻿#nullable enable
+using System;
 using System.Diagnostics.CodeAnalysis;
 
 class Program
@@ -11,15 +12,13 @@ class Program
         set { s = value ?? string.Empty; }
     }
 
-    public static void ShowStringLength(string s)
+    public static void ShowStringLength(string? s)
     {
-        Console.WriteLine(s.Length);
+        Console.WriteLine((s ?? "").Length);
     }
-    static void Main(string[] args)
+    static void Main()
     {
-        // safe because [AllowNull]
         MyProperty = null;
-        // safe becase MyProperty is 'string' type
         ShowStringLength(MyProperty);
     }
 }
