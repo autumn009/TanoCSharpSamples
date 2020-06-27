@@ -1,13 +1,11 @@
 ﻿using System;
 
-//public data class Result
-//{
-//public string FamilyName { get; init; }
-//public string FirstName { get; init; }
-//public int Point { get; init; }
-//}
-
-//data class User { string FamilyName, string FirstName, int Point};
+// この定義は将来のバージョンで不要になる見込みである
+// エラーになる場合は削除してみると良い
+namespace System.Runtime.CompilerServices
+{
+    internal class IsExternalInit : Attribute { }
+}
 
 record Result(string FamilyName, string FirstName, int Point);
 
