@@ -1,7 +1,14 @@
 ﻿using System;
 
 var t = "Top";
-var l = "Level";
-var s = "Statement";
+var s = new MyClass();
 
-Console.WriteLine($"{t} {l} {s}");
+Console.WriteLine($"{t} {MyMethod()} {s.Statenment()}");
+
+string MyMethod() => "Level";
+
+class MyClass
+{
+    internal string Statenment() => "Statement";
+}
+
