@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 class Program
 {
@@ -28,6 +29,22 @@ class Program
                 Console.WriteLine($"{p}+1 is {x + 1}");
             else
                 Console.WriteLine($"{p} is not the condition");
+        }
+
+        // property pattern
+        string[] s = { null, "", "Hello" };
+        foreach (var item in s) Console.WriteLine(item is { Length: > 1 });
+
+        // relational pattern
+        int[] ages = { 10, 30, 70 };
+        foreach (var item in ages)
+        {
+            Console.WriteLine(item switch
+            {
+                < 20 => "CHILD",
+                >= 20 and < 60 => "ADULT",
+                >= 60 => "OLDMAN"
+            });
         }
     }
 }
