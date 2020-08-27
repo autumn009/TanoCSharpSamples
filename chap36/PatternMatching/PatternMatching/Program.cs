@@ -39,12 +39,18 @@ class Program
         int[] ages = { 10, 30, 70 };
         foreach (var item in ages)
         {
+#if true
             Console.WriteLine(item switch
             {
                 < 20 => "CHILD",
                 >= 20 and < 60 => "ADULT",
                 >= 60 => "OLDMAN"
             });
+#else
+            if (item < 20) Console.WriteLine("CHILD");
+            else if (item >= 20 && item < 60) Console.WriteLine("ADULT");
+            else if (item >= 60) Console.WriteLine("OLDMAN");
+#endif
         }
     }
 }
