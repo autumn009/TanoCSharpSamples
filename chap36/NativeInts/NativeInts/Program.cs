@@ -15,9 +15,9 @@ class Program
         newType++;
 
         // ↓できる
-        Console.WriteLine(IntPtr.MaxValue);
-        // ↓できない
-        //Console.WriteLine(nint.MaxValue);
+        newType = oldType;
+        // ↓できる
+        oldType = newType;
 
         // 値の型名を教えて
         Console.WriteLine(oldType.GetType().Name);
