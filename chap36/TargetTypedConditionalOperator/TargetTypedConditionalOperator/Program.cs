@@ -2,15 +2,14 @@
 
 class A { };
 class B: A { };
-class C : A { };
 
 class Program
 {
     static void Main()
     {
-        var b = false;
+        var b = true;
         int? x = b ? 1 : null;
-        A y = new B() ?? new C();
+        A y = new A() ?? new B();
         Console.WriteLine($"{x} {y}");
     }
 }
