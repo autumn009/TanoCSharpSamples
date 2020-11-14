@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 class Program
 {
     [ModuleInitializerAttribute]
-    public static void ModileInitialized()
+    internal static void ModileInitialized()
     {
         Console.WriteLine("Modile Initialized");
 
