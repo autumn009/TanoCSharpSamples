@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 class X
@@ -10,7 +9,7 @@ class X
 
 internal static class MyExtensions
 {
-    internal static IEnumerator GetEnumerator(this X x)
+    internal static IEnumerator<int> GetEnumerator(this X x)
     {
         yield return x.A;
         yield return x.B;
