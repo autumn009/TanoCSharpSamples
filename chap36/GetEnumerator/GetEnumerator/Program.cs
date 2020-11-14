@@ -22,6 +22,8 @@ class Program
     static void Main()
     {
         var x = new X();
+        x.A = 123;
+        x.B = 456;
         foreach (var item in x) Console.WriteLine(item);
     }
 }
