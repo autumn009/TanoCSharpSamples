@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-A a = new A();
+﻿A a = new A();
 a.Sub();
 
 struct A
