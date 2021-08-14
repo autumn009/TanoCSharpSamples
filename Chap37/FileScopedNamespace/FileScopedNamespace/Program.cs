@@ -1,0 +1,1 @@
+﻿MyNamespace.MyClass.Sub();
