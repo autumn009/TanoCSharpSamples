@@ -1,4 +1,5 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System;
+using System.Runtime.CompilerServices;
 
 CalcAndReport(1.23 * 4.56);
 CalcAndReport((1 + 2) * 3);
