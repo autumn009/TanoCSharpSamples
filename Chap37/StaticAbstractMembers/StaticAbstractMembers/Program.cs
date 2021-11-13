@@ -1,4 +1,6 @@
-﻿Sub<B>();
+﻿using System;
+
+Sub<B>();
 
 void Sub<T>() where T: IA
 {
