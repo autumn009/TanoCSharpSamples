@@ -7,7 +7,7 @@
         { Obj.Count: 1 } => "ONE",
         _ => ""
     };
-    Console.WriteLine(r);
+    System.Console.WriteLine(r);
 }
 
 public class A
