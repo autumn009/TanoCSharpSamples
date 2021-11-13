@@ -4,7 +4,7 @@ class MyClass
 {
     internal static void Sub()
     {
-        Console.WriteLine("Hello, World!");
+        System.Console.WriteLine("Hello, World!");
     }
 }
 
