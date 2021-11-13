@@ -1,4 +1,6 @@
-﻿MyClass c = new MyClass();
+﻿using System;
+
+MyClass c = new MyClass();
 if ((c != null && c.MyMethod(out object obj1)))
 {
     // obj1は初期化済みと見抜ける
