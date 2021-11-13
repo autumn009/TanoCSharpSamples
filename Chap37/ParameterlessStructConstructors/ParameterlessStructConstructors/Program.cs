@@ -1,4 +1,6 @@
-﻿A a = new A();
+﻿using System;
+
+A a = new A();
 a.Sub();
 
 struct A
