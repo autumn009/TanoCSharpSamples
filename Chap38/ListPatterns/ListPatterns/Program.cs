@@ -18,7 +18,12 @@ T AddAll<T>(params T[] elements) where T : IMonoid<T> =>
 T AddAllOldStyle<T>(params T[] elements) where T : IMonoid<T>
 {
     if (elements.Length == 0) return T.Zero;
-    return elements[0] + AddAll<T>(elements.Skip(1).ToArray());
+    else
+    {
+        var first = elements[0];
+        var rest = elements.Skip(1).ToArray();
+        return first + AddAll<T>(rest);
+    }
 }
 public interface IMonoid<TSelf> where TSelf : IMonoid<TSelf>
 {
